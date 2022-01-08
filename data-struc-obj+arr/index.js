@@ -24,3 +24,14 @@ function sum(nums) {
 }
 
 console.log(sum(range(1, 10, 2)))
+
+let arr = [1, 2, 3, 4, 5]
+/**
+ * @arr {array}
+ * [return revers array]
+ */
+function reversArray(arr) {
+    let newArr = []
+    arr.forEach((i) => newArr.unshift(i))
+    return newArr
+}
