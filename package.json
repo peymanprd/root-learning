@@ -1,0 +1,9 @@
+{
+  "name": "root-learning",
+  "version": "1.0.0",
+  "description": "Some exercises during root learning",
+  "main": "index.js",
+  "repository": "https://github.com/peymanprd/root-learning.git",
+  "author": "peyman pirzadeh",
+  "license": "MIT"
+}
